@@ -1,0 +1,19 @@
+.footer {
+    background-color: #dadadac1;
+    padding: 15px 0;
+    text-align: center;
+    margin-top: 300px;
+  
+    .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    p {
+      margin: 5px 0;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  }
+  

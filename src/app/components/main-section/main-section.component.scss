@@ -1,0 +1,33 @@
+.grid-container {
+  margin: 20px;
+  background-color: rgba(175, 177, 177, 0.949);
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  color: rgb(255, 255, 255);
+  background-color: rgba(37, 153, 168, 0.811);
+}
+
+button{
+  background: #ff8c00;
+  color: #fff;
+  padding: 10px 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.more-button {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+
+.dashboard-card-content {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
